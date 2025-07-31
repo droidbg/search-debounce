@@ -66,3 +66,13 @@ input[type="text"]:focus {
 h1 {
   text-align: center;
 }
+
+/* 
+container-debounce for js practice of debounce
+
+*/
+
+.container-debounce {
+  padding-inline: 24%;
+  padding-top: 5%;
+}
